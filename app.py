@@ -43,7 +43,7 @@ class WaterFlowAnalyticsSuite:
 
 # Configuration
 os.environ["WATERFLOW_SECRET"] = "<<OMITTED>"
-#12345/admin
+
 # Application initialization
 app = WaterFlowAnalyticsSuite(author="Tomasz", secret="<<OMITTED>>")
 
